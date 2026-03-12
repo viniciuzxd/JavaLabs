@@ -1,0 +1,39 @@
+# Binários e build
+out/
+bin/
+build/
+*.class
+*.jar
+*.war
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependência e pacotes
+target/
+
+# Outros
+*.tmp
+*.cache
+
+# OneDrive/temp (opcional)
+*.lock
+
