@@ -1,4 +1,4 @@
-package fundamentos;
+package basico;
 
 public class Gritador {
     public static void main(String[] args) {

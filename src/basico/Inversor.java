@@ -1,4 +1,4 @@
-package fundamentos;
+package basico;
 
 public class Inversor {
     public static void main(String[] args) {

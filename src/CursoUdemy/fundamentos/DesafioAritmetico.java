@@ -1,4 +1,4 @@
-package CursosUdemy.fundamento;
+package cursoudemy.fundamentos;
 
 public class DesafioAritmetico {
     public static void main(String[] args) {

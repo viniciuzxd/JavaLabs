@@ -1,4 +1,4 @@
-package CursosUdemy.fundamento;
+package cursoudemy.fundamentos;
 import java.util.Scanner;
 
 public class DesafioCalculadora {

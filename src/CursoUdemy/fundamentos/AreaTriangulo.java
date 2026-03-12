@@ -1,7 +1,7 @@
-package CursosUdemy.fundamento;
+package cursoudemy.fundamentos;
 import java.util.Scanner;
 
-public class AreaTriang {
+public class AreaTriangulo {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
 

@@ -1,4 +1,4 @@
-package fundamentos;
+package basico;
 import java.util.Scanner;
 
 public class Seguranca {
